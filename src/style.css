@@ -1,0 +1,21 @@
+.foodList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+.foodItem {
+  padding: 5px;
+  width: 25%;
+  border: 2px solid olivedrab;
+  margin: 10px;
+  text-align: left;
+
+}
+
+h2 {
+  font-size: 1.5em;
+  text-align: center;
+}

@@ -1,0 +1,75 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Tikka Masala",
+      "type": "curry",
+      "ethnicity": "indian",
+      "side dishes": [
+        "samosas",
+        "naan",
+        "basmati rice"
+      ],
+      "barcode": "0837654549803"
+
+    },
+    {
+      "id": 3,
+      "name": "Tomato Soup",
+      "type": "soup",
+      "ethnicity": "american",
+      "side dishes": [
+        "grilled cheese"
+      ],
+      "barcode": "00578790"
+
+    },
+    {
+      "id": 4,
+      "name": "Chicken Yellow Curry",
+      "type": "curry",
+      "ethnicity": "thai",
+      "side dishes": [
+        "spring rolls",
+        "papaya salad"
+      ],
+      "barcode": "0851981002008"
+
+    },
+    {
+      "id": 5,
+      "name": "Lasagna",
+      "type": "pasta",
+      "ethnicity": "italian",
+      "side dishes": [
+        "caesar salad",
+        "tiramisu"
+      ],
+      "barcode": "0085239382837"
+
+    },
+    {
+      "id": 6,
+      "name": "Ramen",
+      "type": "soup",
+      "ethnicity": "japanese",
+      "side dishes": [
+        "gyoza",
+        "squid salad"
+      ],
+      "barcode": "0031146022861" 
+
+    },
+    {
+      "id": 7,
+      "name": "Cheesecake",
+      "type": "dessert",
+      "ethnicity": "earthish",
+      "side dishes": [
+        "strawberry compote",
+        "more cheesecake"
+      ],
+      "barcode": "00311854"
+    }
+  ]
+}
